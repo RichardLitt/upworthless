@@ -1,4 +1,4 @@
-Drought.js
+Upworthless
 ============
 
 This is a Chrome extension to redirect any link from upworthy that has a youtube video to the source video, so that you don't have to cringe at how bad the writing is. 
